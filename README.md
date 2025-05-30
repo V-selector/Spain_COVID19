@@ -1,4 +1,3 @@
-# Spain_Covid_19
 # DAV Project: COVID-19 Data Analysis & Visualization (Spain Focus)
 
 ##  Project Overview
@@ -23,14 +22,14 @@ Key CSV files:
 - `oxcgrt_policy_spain.csv`: Spain's policy stringency data
 - `cases_per_province.csv`: Province-level breakdowns
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **Python**: Data processing & analysis
   - `Pandas`, `Matplotlib`, `Plotly`, `Seaborn`
 - **HTML/CSS**: For embedding dashboards
 - **AR models**: For time series forecasting
 - **GeoJSON**: For spatial data visualization
 
-## 📈 Key Visualizations
+##  Key Visualizations
 This project includes a wide range of visual outputs:
 - **Daily trends**: New cases, deaths, and ICU occupancy in Spain
 - **Vaccination progress**: Age-specific and booster rates
@@ -40,7 +39,7 @@ This project includes a wide range of visual outputs:
 - **Province-level analysis**: Animated bar and choropleth maps
 - **Time series forecasts**: AR(10) model projections for 2023-2024
 
-## 📌 Contributions
+##  Contributions
 This project was independently developed for an academic data visualization course, involving:
 - Data integration & wrangling
 - Time series modeling
